@@ -19,6 +19,12 @@ Setup a Ldap User Federation
 
 ![](https://i.imgur.com/stlRm82.png)
 
+![](https://i.imgur.com/u33Pkw4.png)
+
+![](https://i.imgur.com/70bnJ2e.png)
+
+To test this setup, try to "Synchronize all users"
+
 
 
 
